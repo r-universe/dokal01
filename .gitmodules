@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "smoothAPC"]
+	path = smoothAPC
+	url = https://github.com/cran/smoothAPC
+	shallow = true
+	registered = true
+[submodule "stR"]
+	path = stR
+	url = https://github.com/cran/stR
+	shallow = true
+	registered = true
