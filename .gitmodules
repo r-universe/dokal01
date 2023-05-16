@@ -8,3 +8,9 @@
 	url = https://github.com/cran/smoothAPC
 	shallow = true
 	registered = true
+[submodule "stR"]
+	path = stR
+	url = https://bitbucket.org/alexanderdokumentov/strpackage
+	shallow = true
+	subdir = stR
+	registered = true
