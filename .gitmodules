@@ -8,4 +8,3 @@
 [submodule "stR"]
 	path = stR
 	url = https://bitbucket.org/alexanderdokumentov/strpackage
-	subdir = stR
