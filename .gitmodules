@@ -5,6 +5,3 @@
 [submodule "smoothAPC"]
 	path = smoothAPC
 	url = https://github.com/cran/smoothAPC
-[submodule "stR"]
-	path = stR
-	url = https://bitbucket.org/alexanderdokumentov/strpackage
