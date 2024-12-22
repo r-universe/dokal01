@@ -4,4 +4,5 @@
 	branch = HEAD
 [submodule "smoothAPC"]
 	path = smoothAPC
-	url = https://github.com/cran/smoothAPC
+	url = https://bitbucket.org/alexanderdokumentov/smoothapcpackage
+	subdir = smoothAPC
